@@ -1,0 +1,11 @@
+main{
+    padding: 2rem;
+}
+
+.container--chat{
+    border: 2px solid var(--primary-color);
+    border-radius: 25px 25px 25px 25px;
+    background-color: var(--background-color-dark);
+    height: 40rem;
+    width: 100%;
+}
